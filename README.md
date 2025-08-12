@@ -1,4 +1,4 @@
- <h1 align="center">Hi there 👋 I'm Şerife</h1>
+ <h1 align="center">Hi there 👋 I'm Sevde</h1>
 
 <p align="center">
   I'm a young beginner learning software development 👩‍💻 <br>
